@@ -22,7 +22,7 @@ Apabila saat melakukan proses compile, kemudian anda menemukan error sebagai ber
 > warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
 
 Silahkan edit code pada line 6 dan 7 dengan code berikut :
-```sh
+```C
 char psw[]="12345";
 Password password = Password(psw);
 ```
