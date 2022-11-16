@@ -9,13 +9,13 @@ Project ini merupakan tugas dari matakuliah microprocessing. Secara garis besar 
 ```sh
 git clone https://github.com/Kalveir/Simulasi-Pin-Kunci-Pintue
 ```
-2. Pindahkan semua file library Arduiono proteus ke **...\Libcenter Electronic\DATA\LIBRARY**
-3.  Install Libary Arduino dengan menu **Sketch > add .ZIP Library...**
+2. Pindahkan semua file [library Arduiono proteus](https://www.google.com) ke **...\Libcenter Electronic\DATA\LIBRARY**
+3.  Install [Libary Arduino](https://www.google.com) dengan menu **Sketch > add .ZIP Library...**
 ## Running the tests 
-* Buka Arduino IDE dan buka project file yang berekstensi .ino
+* Buka Arduino IDE dan buka project file yang berekstensi [.ino](https://www.google.com)
 * Tekan tombol **Verfy** untuk proses compile. Jika tidak ada error, pilih menu **Sketch > Export compiled Binarry**
 * Buka file **Kunci_pintu.pdsprj** dengan software Proteus
-* klik 2x pada microcontroller, kemudian pilih file hasil compile dari Arduino tadi
+* klik 2x pada microcontroller, kemudian pilih file [hasil compile](https://www.google.com) dari Arduino tadi
 * Klik play dan selesai
 
 ## Problem record
