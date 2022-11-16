@@ -12,7 +12,7 @@ Project ini merupakan tugas dari matakuliah microprocessing. Secara garis besar 
 ```sh
 git clone https://github.com/Kalveir/Simulasi-Pin-Kunci-Pintu.git
 ```
-2. Pindahkan semua file [library Arduiono proteus](https://www.google.com) ke **...\Libcenter Electronic\DATA\LIBRARY**
+2. Pindahkan semua file [library Arduiono proteus](https://www.google.com) ke **...\Libcenter Electronic\Protrus 8 profesional\DATA\LIBRARY**
 3.  Install [Libary Arduino](https://www.google.com) dengan menu **Sketch > add .ZIP Library...**
 ## Running the tests 
 * Buka Arduino IDE dan buka project file yang berekstensi [.ino](https://www.google.com)
