@@ -10,7 +10,7 @@ Project ini merupakan tugas dari matakuliah microprocessing. Secara garis besar 
  ## Installing
 1. Unduh project dengan perintah
 ```sh
-git clone https://github.com/Kalveir/Simulasi-Pin-Kunci-Pintue
+git clone https://github.com/Kalveir/Simulasi-Pin-Kunci-Pintu.git
 ```
 2. Pindahkan semua file [library Arduiono proteus](https://www.google.com) ke **...\Libcenter Electronic\DATA\LIBRARY**
 3.  Install [Libary Arduino](https://www.google.com) dengan menu **Sketch > add .ZIP Library...**
