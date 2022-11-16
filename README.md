@@ -1,8 +1,8 @@
 # SIMULASI PIN KUNCI PINTU DENGAN ARDUINO DAN PROTEUS
 Project ini merupakan tugas dari matakuliah microprocessing. Secara garis besar project ini membahas mengenai cara kerja microcontroller(Arduino) melakukan verifikasi password PIN dari keypad dan indikator validasi PIN tersebut menggunakan bantuan LCD dan 2 buah lampu LED
 ## Prerequisites
--PROTEUS 8
--ARDUINO IDE
+* PROTEUS 8
+* ARDUINO IDE
  ## Installing
 1. Unduh project dengan perintah
 ```git clone https://github.com/Kalveir/Simulasi-Pin-Kunci-Pintue```
